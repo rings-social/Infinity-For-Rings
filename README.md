@@ -1,17 +1,19 @@
 <h1 align="center">
-  Infinity For Reddit <a href="https://www.patreon.com/docile_alligator"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
+  Infinity For <a href="https://rings.social">Rings</a> <a href="https://www.patreon.com/docile_alligator"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
   
 </h1>
 
 <div align="center">
 
-A Reddit client on Android written in Java. It does not have any ads and it features a clean UI and smooth browsing experience
+A Rings client on Android written in Java. It does not have any ads and it features a clean UI and smooth browsing experience
 
 <img align="right" src="https://raw.githubusercontent.com/Docile-Alligator/Infinity-For-Reddit/master/fastlane/metadata/android/en-US/images/icon.png" width=200>
 
 </div>
 
 <br>
+
+Forked from <a href="https://github.com/Docile-Alligator/Infinity-For-Reddit">Infinity for Reddit</a>.
 
 <div align="center">
 
